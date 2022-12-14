@@ -12,7 +12,7 @@ _I'm taking my first steps in learning programming_
 *******
 Skills
 ===
-_Basic C++, pyton, CSS, HTML_
+_Basic C++, python, CSS, HTML_
 *********
 Сode example
 ===
